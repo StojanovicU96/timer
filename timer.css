@@ -1,0 +1,39 @@
+
+body {
+    background-color:orange !important;
+    height:100%;
+}
+
+.main {
+    width: 800px;
+    margin: 30px auto;
+    color:white;
+    text-align:center;
+ }
+
+h1, h2 {
+    font-weight: 100;
+    font-size: 2.6em;
+    text-transform: uppercase;
+  }
+
+  button{
+    background:base-color;
+    background-color:orange !important;
+    color:white;
+    border: 1px solid white;
+    text-decoration:none;
+    cursor:pointer;
+    font-size:1.2em;
+    padding:18px 10px;
+    width:180px;
+    margin: 10px;
+    outline: none;
+ }
+
+ button:hover{
+    background: white !important;
+    border: 1px solid white !important;
+    color: orange;
+}
+  
